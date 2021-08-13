@@ -14,7 +14,6 @@
 #include <iostream>
 #include <cstdlib>
 #include "board.h"
-//#include "player.h"
 
 using namespace std;
 
@@ -26,14 +25,6 @@ int main()
  bo.toString();
  bo.displayStats();
  
- //player player1;
-  
- //create a board pointer and print the board
- //board *boardPointer;
- //boardPointer = &bo;
-
- //create artificial player(s) here.
- //player1.printBoard(boardPointer); // the test has shown that the player can watch the game and see all changes that the board object makes public.
  
  
 
